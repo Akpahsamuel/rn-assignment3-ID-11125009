@@ -12,10 +12,10 @@ This is a React Native assignment for ID 11125009. It includes a task list appl
 - Image: Used for icons and displaying images.
 
 ## Screenshots
-
+<img src="https://i.ibb.co/D8RMZPH/Screenshot-20240602-191404.png" width="400"/>
 ## Getting Started 
 - Clone the repository
-  * git clone https://github.com/your-username/rn-assignment3-11125009.git
+  * git clone https://github.com/Akpahsamuel/rn-assignment3-11125009.git
 
 - Install dependencies 
   * cd rn-assignment3-11125009
